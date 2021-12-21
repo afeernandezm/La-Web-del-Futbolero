@@ -1,0 +1,26 @@
+<rss version="2.0">
+    <channel>
+        <title>La Web del Futbolero</title>
+        <link>https://afeernandezm.github.io/PROYECTO/</link>
+        <description>Aprende de fútbol</description>
+        <managingEditor>antoniofernandezmarin3@gmail.com</managingEditor>
+        <image>
+            <link>https://afeernandezm.github.io/PROYECTO/primerap%C3%A1ginadePROYECTO.html</link>
+            <url>https://www.creativefabrica.com/wp-content/uploads/2020/10/16/Soccer-Logo-or-football-vector-design-Graphics-6101117-2-580x387.png</url>
+            <title>Inicio</title>
+            </image>
+        <item>
+            <title>Palmarés FC Barcelona</title>
+            <link>https://afeernandezm.github.io/PROYECTO/PALMARESBARSA.html</link>
+            <description>El FC Barcelona y su palmarés.</description>
+            <category>Fútbol</category>
+        </item>
+        <item>
+            <title>InfoBetis</title>
+            <link>https://afeernandezm.github.io/PROYECTO/BETIS.html</link>
+            <description>Información general Real Betis</description>
+            <author>Antonio Fernández</author>
+            <category>Fútbol</category>
+        </item>
+    </channel>
+</rss>
